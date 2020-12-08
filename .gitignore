@@ -1,0 +1,10 @@
+*~
+__pycache__
+venv/
+.idea/
+*.pyc
+/static
+db.sqlite3
+migrations/
+media/
+media/markdown/
